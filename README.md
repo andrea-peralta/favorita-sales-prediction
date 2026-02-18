@@ -2,8 +2,6 @@
 
 **End-to-end ML pipeline** applied to a real-scale retail supply chain problem.
 
-> Built as part of the Executive Master in Business Analytics (EMIBA) at ESADE Business School.
-
 ---
 
 ## Business Problem
